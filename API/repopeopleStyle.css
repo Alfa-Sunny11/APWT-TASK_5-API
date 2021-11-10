@@ -1,0 +1,34 @@
+.container{
+      background: #fdffff;     
+  }
+  .container2{
+      width: 60%;
+      margin:10px auto; 
+  }
+  #grab{
+      border: none;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 10px 20px;
+      border-radius: 10px;
+      background-color: #22920c;
+      color: white;
+      font-size: 1.0rem;
+      cursor: pointer;
+      box-shadow: 0px 5px 5px 5px   rgb(194, 194, 194);
+  }
+
+  #user{
+      color: white;
+      text-align: center; 
+      margin-top: 20px;
+      background-color: #94ffa2;
+      border-top: 4px solid #07bb52;      
+  }
+  h1{
+      text-align: center;
+      color: white;
+      color: black;
+  
+  }
